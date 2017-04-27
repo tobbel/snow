@@ -4,13 +4,18 @@ Summary sheet: Hero
 ## Role 
 Hero
 
-### Name: 
+## Name
 
+## Goal: 
 
-Goal: 
-Ambition: 
-Values: 
-Conflict: 
-Epiphany: 
-One-sentence summary: 
-One-paragraph summary: 
+## Ambition: 
+
+## Values: 
+
+## Conflict: 
+
+## Epiphany: 
+
+## One-sentence summary: 
+
+## One-paragraph summary: 
